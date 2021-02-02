@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>BattRateCC</string>
+	<key>CFBundleExecutable</key>
+	<string>BattRateCC</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.julioverne.battrate</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>BattRateCC</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+		<string>iPadOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>MinimumOSVersion</key>
+	<string>12.0</string>
+	<key>NSPrincipalClass</key>
+	<string>BattRateCC</string>
+	<key>SBIconVisibilityDefaultVisible</key>
+	<integer>1</integer>
+	<key>SBIconVisibilitySetByAppPreference</key>
+	<integer>1</integer>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+</dict>
+</plist>
